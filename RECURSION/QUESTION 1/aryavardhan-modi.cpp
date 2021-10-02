@@ -12,6 +12,7 @@ void rec_reverse(char *rev)
 
 }
 
+
 int main()
 {
     char s[500];
